@@ -1,5 +1,5 @@
 # Lines starting with '#' are ignored as are lines that have more than two tokens
-# - is space; a is left; d is right; duration is in ms
+# '-' is sleep; 's' is space (flip); 'a' is left; 'd' is right; duration is in ms
 - 1000
 d 2000
 - 500
