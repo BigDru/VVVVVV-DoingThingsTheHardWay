@@ -1,0 +1,30 @@
+# Lines starting with '#' are ignored as are lines that have more than two tokens
+# - is space; a is left; d is right; duration is in ms
+- 1000
+d 2000
+- 500
+s 200
+- 530
+d 450
+- 290
+a 530
+- 1400
+d 330
+- 150
+a 430
+- 450
+d 300
+- 400
+# flip
+s 20
+d 305
+- 250
+a 250
+- 120
+d 200
+a 370
+- 1300
+d 730
+- 100
+a 490
+- 2000
